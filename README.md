@@ -1,3 +1,27 @@
+# jQuery Mobile demo 勝手に日本語化プロジェクト
+
+jQuery Mobileの[デモ](http://jquerymobile.com/demos/)を勝手に日本語訳するプロジェクトです。  
+[現存する日本語リファレンス](http://dev.screw-axis.com/doc/jquery_mobile/)はjQM1.1Finalに準じてい、現時点の最新版(1.4.2)に比べ古いものとなってしまっています。そのため、最新のjQueryMobileに対応できるものを作ろう、というのがこのプロジェクトです。
+
+jQuery Mobile1.3以来、従来のdemoに加え、別途documentationが作られています。このプロジェクトで扱っているのはdemoです。なお、本家プロジェクト最新版に準拠しています。常に最新になっているわけではありませんが、出来るだけ本家の更新はマージしていく予定です。
+
+## 現時点でのバージョン
+
+jQuery Mobile 1.4.2+
+公開先 : http:// (仮)
+
+
+
+## このプロジェクトでは翻訳者を募集しています。
+
+全ての翻訳を一度に出来るほど人間は器用ではありません。()
+すこしでも早くこのデモを完成させるべく、またよりよい翻訳のため、協力してくれる方をお待ちしています。
+
+このプロジェクトをForkして編集、コミットし、ご自身のリポジトリにPushしたものをPullReqしていただければ、当方で判断した後このプロジェクトに反映致します。
+
+
+## 以下はjQuery MobileのREADMEになります。  
+
 # jQuery Mobile [![Build Status](https://travis-ci.org/jquery/jquery-mobile.png?branch=master)](https://travis-ci.org/jquery/jquery-mobile) [![Coverage Status](https://coveralls.io/repos/jquery/jquery-mobile/badge.png?branch=master)](https://coveralls.io/r/jquery/jquery-mobile?branch=master)
 
 This is the main repository for the jQuery Mobile project. From the [official website](http://jquerymobile.com):
