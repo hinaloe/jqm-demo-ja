@@ -7,8 +7,8 @@ jQuery Mobile1.3以来、従来のdemoに加え、別途documentationが作ら�
 
 ## 現時点でのバージョン
 
-jQuery Mobile 1.4.2+
-公開先 : http:// (仮)
+jQuery Mobile 1.4.2+  
+公開先 : http:// (仮)  
 
 
 
